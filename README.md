@@ -38,15 +38,15 @@ Like both GitHub and GitLab, Bitbucket has a deployment option.
 
 [Firebase](http://firebase.google.com/) was acquired by Google in 2014.
 
-Features [React Firebase](http://react-firebase-js.com/).
-
 > Firebase helps mobile and web app teams succeed
 
 From: http://firebase.google.com/
 
+Features [React Firebase](http://react-firebase-js.com/).
+
 Definitely worth a look for ___Mobile___, known for authentication and Crashlytics.
 
-As perhaps might be expected, their __firebase__ CLI is exceptionally useful.
+As perhaps might be expected, their `firebase` CLI is exceptionally useful.
 
 #### GitHub Pages
 
@@ -61,24 +61,22 @@ seem to be pretty much the same thing as __GitHub Pages__, but for ___GitLab___ 
 
 [Heroku](http://www.heroku.com/) is owned by Salesforce.com and offers a number of attractive services.
 
-It uses containers, which are referred to as `dynos`.
-
-For more on `dynos`: http://www.heroku.com/dynos
+It uses containers, which are referred to as `dynos`: http://www.heroku.com/dynos
 
 Deploying to Heroku can be a little bit complicated.
 
-Check out my [ReactAWS](http://github.com/mramshaw/ReactAWS) app on Heroku: https://react-aws.herokuapp.com/
+Check out my [ReactAWS](http://github.com/mramshaw/ReactAWS) scaffold on Heroku: https://react-aws.herokuapp.com/
 
 #### Netlify
 
 [Netlify](http://www.netlify.com/) is very easy to use, so a pretty good option.
 
-Check out my [ReactAWS](http://github.com/mramshaw/ReactAWS) app
-deployed on Netlify: https://compassionate-sinoussi-40e0e0.netlify.com/
-
 Of course, Netlify are known for defining [Jamstack](#jamstack).
 
 So, not surprisingly, Netlify is really optimal for [Jamstack](#jamstack) deployments.
+
+Check out my [ReactAWS](http://github.com/mramshaw/ReactAWS) scaffold
+deployed on Netlify: https://compassionate-sinoussi-40e0e0.netlify.com/
 
 #### Render
 
