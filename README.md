@@ -8,7 +8,7 @@ Exporing deployment options in the Cloud (mainly from the context of deploying R
 
 While researching competitors to AWS S3 for hosting my [ReactAWS](http://github.com/mramshaw/ReactAWS)
 repo, I ended up trying out many of them. Which didn't really fit into the goals of that particular
-project - which was to explore deploying a minimal React app to AWS.
+project - which was to explore deploying a minimal React scaffold to AWS.
 
 ## Cloud Deployment Options
 
@@ -46,11 +46,15 @@ Features [React Firebase](http://react-firebase-js.com/).
 
 Definitely worth a look for ___Mobile___, known for authentication and Crashlytics.
 
-As perhaps might be expected, their `firebase` CLI is exceptionally useful.
+As perhaps might be expected, their [firebase CLI](http://firebase.google.com/docs/cli#setup_update_cli) is exceptionally useful.
+
+Check out my demo [Vue.js](http://vuejs.org/) app deployed to Firebase at: https://vuerender-f8354.web.app/ or https://vuerender-f8354.firebaseapp.com/
 
 #### GitHub Pages
 
 [GitHub Pages](http://pages.github.com/) are pretty straightforward.
+
+Check out my [Corkboard repo](http://github.com/mramshaw/Corkboard) deployed on GitHub Pages: https://mramshaw.github.io/Corkboard/
 
 #### GitLab Pages
 
@@ -89,6 +93,8 @@ These appear to be the only deployment options available (for now?).
 Apart from the GitHub / GitLab root repo proviso, seems like a nice service.
 
 Check out this [Vue.js](http://vuejs.org/) scaffold that I deployed to Render: http://vuerender.onrender.com
+
+[Or check out the finished app, deployed to Firebase at: https://vuerender-f8354.web.app/ or https://vuerender-f8354.firebaseapp.com/]
 
 #### Stackbit
 
@@ -162,5 +168,7 @@ While Jamstack sites are effectively serverless, Jamstack ___itself___ is not co
 
 ## To Do
 
+- [x] Add links to a Vue.js app deployed on Firebase
+- [x] Add link to a React.js app deployed on GitHub Pages
 - [ ] Investigate [Twelve-factor](http://12factor.net/) options
 - [ ] Add more notes on cloud deployment options
