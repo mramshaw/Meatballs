@@ -86,6 +86,24 @@ deployed on Netlify: https://compassionate-sinoussi-40e0e0.netlify.com/
 
 [Render](http://render.com/) seems to be an interesting alternative to __Heroku__, probably worth investigating.
 
+They offer a summary of how Render differs from Heroku:
+
+    https://render.com/render-vs-heroku-comparison
+
+One difference:
+
+> Heroku customers running production and staging workloads typically see cost reductions of
+> __over 50%__ after switching to Render
+
+And:
+
+> Heroku [serves all content over HTTP/1.1](https://help.heroku.com/JAOCNZ25/does-heroku-have-plans-to-support-http-2).
+> However, major browsers have supported [HTTP/2](https://en.wikipedia.org/wiki/HTTP/2) since 2015. Render serves all
+> requests over HTTP/2, falling back to HTTP/1.1 for older clients. This minimizes simultaneous connections to your
+> Render apps and reduces page load times for all your users.
+
+[Both quotes are from the Render web page. Other differences are also listed.]
+
 Note that Render can integrate with either a GitHub repo or a GitLab repo.
 
 These appear to be the only deployment options available (for now?).
@@ -170,5 +188,6 @@ While Jamstack sites are effectively serverless, Jamstack ___itself___ is not co
 
 - [x] Add links to a Vue.js app deployed on Firebase
 - [x] Add link to a React.js app deployed on GitHub Pages
+- [x] Add more details on Render versus Heroku
 - [ ] Investigate [Twelve-factor](http://12factor.net/) options
 - [ ] Add more notes on cloud deployment options
