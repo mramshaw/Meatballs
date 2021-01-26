@@ -97,12 +97,12 @@ One difference:
 
 And:
 
-> Heroku [serves all content over HTTP/1.1](https://help.heroku.com/JAOCNZ25/does-heroku-have-plans-to-support-http-2).
-> However, major browsers have supported [HTTP/2](https://en.wikipedia.org/wiki/HTTP/2) since 2015. Render serves all
+> Heroku [serves all content over HTTP/1.1](http://help.heroku.com/JAOCNZ25/does-heroku-have-plans-to-support-http-2).
+> However, major browsers have supported [HTTP/2](http://en.wikipedia.org/wiki/HTTP/2) since 2015. Render serves all
 > requests over HTTP/2, falling back to HTTP/1.1 for older clients. This minimizes simultaneous connections to your
 > Render apps and reduces page load times for all your users.
 
-[Both quotes are from the Render web page. Other differences are also listed.]
+[Both quotes are from the Render web page. Other differences between the two services are also listed.]
 
 Note that Render can integrate with either a GitHub repo or a GitLab repo.
 
