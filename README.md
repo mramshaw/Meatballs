@@ -88,7 +88,7 @@ deployed on Netlify: https://compassionate-sinoussi-40e0e0.netlify.com/
 
 They offer a summary of how Render differs from Heroku:
 
-    https://render.com/render-vs-heroku-comparison
+    http://render.com/render-vs-heroku-comparison
 
 One difference:
 
@@ -136,7 +136,7 @@ From: http://surge.sh/
 
 And:
 
-> Surge has been built from the ground up for [native web application](https://blog.andyet.com/2015/01/22/native-web-apps)
+> Surge has been built from the ground up for [native web application](http://blog.andyet.com/2015/01/22/native-web-apps)
 > publishing and is committed to being the best way for Front-End Developers to put HTML5 applications into production.
 
 From: http://surge.sh/help/getting-started-with-surge
