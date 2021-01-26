@@ -112,6 +112,8 @@ Apart from the GitHub / GitLab root repo proviso, seems like a nice service.
 
 Check out this [Vue.js](http://vuejs.org/) scaffold that I deployed to Render: http://vuerender.onrender.com
 
+Note that - at the ___free___ level - the `Let's Encrypt` site certificate expires in three (3) months.
+
 [Or check out the finished app, deployed to Firebase at: https://vuerender-f8354.web.app/ or https://vuerender-f8354.firebaseapp.com/]
 
 #### Stackbit
