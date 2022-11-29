@@ -25,7 +25,7 @@ Depending upon your deployment requirements, any of the following may be an opti
 * [Surge](#surge)
 * [Zeit](#zeit)
 
-[They all seem to offer various free options. Most will require installing a CLI tool.]
+[Many of them have free options. Most will require installing a CLI tool.]
 
 #### Bitbucket Cloud
 
@@ -68,8 +68,6 @@ seem to be pretty much the same thing as __GitHub Pages__, but for ___GitLab___ 
 It uses containers, which are referred to as `dynos`: http://www.heroku.com/dynos
 
 Deploying to Heroku can be a little bit complicated.
-
-Check out my [ReactAWS](http://github.com/mramshaw/ReactAWS) scaffold on Heroku: https://react-aws.herokuapp.com/
 
 #### Netlify
 
@@ -191,5 +189,6 @@ While Jamstack sites are effectively serverless, Jamstack ___itself___ is not co
 - [x] Add links to a Vue.js app deployed on Firebase
 - [x] Add link to a React.js app deployed on GitHub Pages
 - [x] Add more details on Render versus Heroku
+- [x] Remove link to deleted Heroku deployment (Heroku is no longer free)
 - [ ] Investigate [Twelve-factor](http://12factor.net/) options
 - [ ] Add more notes on cloud deployment options
