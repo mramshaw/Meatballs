@@ -108,11 +108,7 @@ These appear to be the only deployment options available (for now?).
 
 Apart from the GitHub / GitLab root repo proviso, seems like a nice service.
 
-Check out this [Vue.js](http://vuejs.org/) scaffold that I deployed to Render: http://vuerender.onrender.com
-
 Note that - at the ___free___ level - the `Let's Encrypt` site certificate expires in three (3) months.
-
-[Or check out the finished app, deployed to Firebase at: https://vuerender-f8354.web.app/ or https://vuerender-f8354.firebaseapp.com/]
 
 #### Stackbit
 
@@ -190,5 +186,6 @@ While Jamstack sites are effectively serverless, Jamstack ___itself___ is not co
 - [x] Add link to a React.js app deployed on GitHub Pages
 - [x] Add more details on Render versus Heroku
 - [x] Remove link to deleted Heroku deployment (Heroku is no longer free)
+- [x] Remove link to deleted Render deployment
 - [ ] Investigate [Twelve-factor](http://12factor.net/) options
 - [ ] Add more notes on cloud deployment options
